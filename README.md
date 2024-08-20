@@ -43,3 +43,4 @@ Prompt engineering involves crafting precise and effective input prompts to guid
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 How many athletes in Kenya have won the gold medal?
 Using the different olympics held worldwide annually list the names of Kenyan athletes who have won gold since the games were started.
+PLP Academy
